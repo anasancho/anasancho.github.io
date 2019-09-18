@@ -1,7 +1,7 @@
 ## https://anasancho.github.io/
 
 <a href="mailto:anasancho.silva@gmail.com?subject=Project%20inquiry%20from%20Github"> 
-<img src="https://github.com/ramotion/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a> <br>
+<img src="https://github.com/anasancho/anasancho.github.io/blob/master/contact_%40.png" width="187" height="34"></a> <br>
 
 ## Welcome to GitHub Pages
 
