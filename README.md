@@ -12,3 +12,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+####     Searching in GitHub###
+
+https://x-team.com/blog/become-a-github-master-with-these-features-and-extensions/?utm_source=facebook&utm_medium=social&utm_campaign=social-post&fbclid=IwAR0BIscSMEYSdEEhF1yzF1xUE5L1Kmkiv-F940PA6iGV6o3014YRFoSv308
