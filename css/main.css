@@ -1,3 +1,10 @@
+head hr {
+  border: 0;
+  border-top: 1px solid #ddd;
+  margin: 12px
+}
+
+
 body {
     margin: 60px auto;
     width: 70%;
@@ -23,11 +30,7 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-hr {
-  border: 0;
-  border-top: 1px solid #ddd;
-  margin: 12px
-}
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
