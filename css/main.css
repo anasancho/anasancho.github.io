@@ -7,6 +7,7 @@ head hr {
 body {
     margin: 60px auto;
     width: 70%;
+    padding-bottom: 0px;
 }
 
 nav ul,
@@ -25,7 +26,7 @@ footer ul li {
 
 a {
     text-decoration: none;
-    color: #adce99;
+    color: #c3d18f;
 }
 
 a:hover {
