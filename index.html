@@ -103,142 +103,268 @@
                                                 Also, recently I updated Knowledge as a software developer - developing Computer Science programming skills. I find it refreshing to step outside of my comfort zone and aim to explore a wide diversity of
                                                 digital technologies to flow knowledge in Audio/Visual Design and Programming, network virtualization environments or hardware components interaction. I feel passionate about solving computational problems,
                                                 sharing knowledge in Computer systems (hardware or software) and exploring appropriate analytical instruments/Design thinking methods. </h9>
-                                            </center>
-                                        </font>
-                                </p>
-                                <br></br>
-                                </h5>
-                        </div>
-                        <br></br>
-                        <center>
-                            <section class="section section-follow teal darken-2 black-text center ">
-                                <div class="container ">
-                                    <div class="row ">
-                                        <div class="col s12 ">
-                                            <p></p>
-                                            <p></p>
-                                            <center>
-                                                <a href="https://github.com/anasancho " target="_blank " class="black-text ">
-                                                    <tab>&ensp;&ensp;
-                                                        <i class="fa fa-github fa-3x "></i>
-                                                    </tab>
-                                                </a>
-                                                <a href="https://gitlab.com/anasancho " target="_blank " class="black-text ">
-                                                    <tab>&ensp;&ensp;
-                                                        <i class="fa fa-gitlab fa-3x "></i>
-                                                    </tab>
-                                                </a>
-                                                <a href="https://stackshare.io/anasancho " target="_blank " class="black-text ">
-                                                    <tab>&ensp;&ensp;
-                                                        <i class="fa fa-share-alt fa-3x "></i>
-                                                    </tab>
-                                                </a>
-                                                <a href="https://www.linkedin.com/in/ana-filipa-sancho-silva-283b6b16/ " target="_blank " class="black-text ">
-                                                    <tab>&ensp;&ensp;
-                                                        <i class="fa fa-linkedin-square fa-3x "></i>
-                                                    </tab>
-                                                </a>
-                                                <a href="https://www.behance.net/anasancho " target="_blank " class="black-text ">
-                                                    <tab>&ensp;&ensp;
-                                                        <i class="fa fa-behance fa-3x "></i>
-                                                    </tab>
-                                                </a>
-                                                <a href="https://anaphisanchosilva.000webhostapp.com/Todo/TodoAPP/index.html " target="_blank " class="white-text ">
-                                                    <tab>&ensp;&ensp;
-                                                        <i class="fa fa-book fa-3x "></i>
-                                                    </tab>
-                                                </a>
+
+                                                <br></br>
+                                                <!-- partial:index.partial.html --><span class="scroll-btn"><a href="#"><span class="mouse"><span></span></span>
             </a>
-            </center>
-            </div>
-            </div>
-            </div>
-            </section>
-            </center>
-            <br></br>
-
-            <div style="-moz-box-shadow: 1px 1px 3px 2px #647850; -webkit-box-shadow: 1px 1px 3px 2px #647850; box-shadow: 1px 1px 3px 2px #647850; ">
+            <scroll align="center">scroll me</p><br></br>
+                </span>
+                <!-- partial -->
+                <style>
+                        @-webkit-keyframes ani-mouse {
+                        0% {
+                            opacity: 1;
+                            top: 29%;
+                        }
+                        15% {
+                            opacity: 1;
+                            top: 50%;
+                        }
+                        50% {
+                            opacity: 0;
+                            top: 50%;
+                        }
+                        100% {
+                            opacity: 0;
+                            top: 29%;
+                        }
+                    }
+                    
+                    @-moz-keyframes ani-mouse {
+                        0% {
+                            opacity: 1;
+                            top: 29%;
+                        }
+                        15% {
+                            opacity: 1;
+                            top: 50%;
+                        }
+                        50% {
+                            opacity: 0;
+                            top: 50%;
+                        }
+                        100% {
+                            opacity: 0;
+                            top: 29%;
+                        }
+                    }
+                    
+                    @keyframes ani-mouse {
+                        0% {
+                            opacity: 1;
+                            top: 29%;
+                        }
+                        15% {
+                            opacity: 1;
+                            top: 50%;
+                        }
+                        50% {
+                            opacity: 0;
+                            top: 50%;
+                        }
+                        100% {
+                            opacity: 0;
+                            top: 29%;
+                        }
+                    }
+                    
+                    .scroll-btn {
+                        display: block;
+                        position: absolute;
+                        left: 0;
+                        right: 0;
+                        text-align: center;
+                    }
+                    
+                    .scroll-btn>* {
+                        display: inline-block;
+                        line-height: 14px;
+                        font-size: 10px;
+                        font-weight: normal;
+                        color: #7f8c8d;
+                        color: #0e0e0e;
+                        font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+                        letter-spacing: 2px;
+                    }
+                    
+                    .scroll-btn>*:hover,
+                    .scroll-btn>*:focus,
+                    .scroll-btn>*.active {
+                        color: #0e0e0e;
+                    }
+                    
+                    .scroll-btn>*:hover,
+                    .scroll-btn>*:focus,
+                    .scroll-btn>*:active,
+                    .scroll-btn>*.active {
+                        opacity: 0.8;
+                        filter: alpha(opacity=80);
+                    }
+                    
+                    .scroll-btn .mouse {
+                        position: relative;
+                        display: block;
+                        width: 25px;
+                        height: 45px;
+                        margin: 0 auto 20px;
+                        -webkit-box-sizing: border-box;
+                        -moz-box-sizing: border-box;
+                        box-sizing: border-box;
+                        border: 3px solid rgb(32, 3, 59);
+                        border-radius: 23px;
+                    }
+                    
+                    .scroll-btn .mouse>* {
+                        position: absolute;
+                        display: block;
+                        top: 29%;
+                        left: 50%;
+                        width: 8px;
+                        height: 8px;
+                        margin: -4px 0 0 -4px;
+                        background: rgb(7, 77, 56);
+                        border-radius: 50%;
+                        -webkit-animation: ani-mouse 2.5s linear infinite;
+                        -moz-animation: ani-mouse 2.5s linear infinite;
+                        animation: ani-mouse 2.5s linear infinite;
+                </style>
+                <br></br> <br></br>
+                </center>
+                </font>
+                </p>
+                <br></br>
+                </h5>
+                </div>
+                <br></br>
                 <center>
-                    <p align="justify "><b><h4> IT'S ABOUT THE JOURNEY, NOT THE DESTINATION : </h4></b> </center>
-            </div>
-
-            <h5> I started out with the ZX Spectrum or self made/self-taught hardware solutions. I first contacted with kinect, RaspberryPi and Arduino at the University of Porto - Sound & Image - creating servers, Open Source projects network; besides artistic
-                interactive platforms projects. So I understand well, the transition of analog to digital. Continuously developing new techniques in the computational field. Keeping up with social media and its future developments in digitization: IOT(Internet
-                of things), artificial intelligence, and automation that supercharge performance and enabling the emergence of new business innovations.
-                <br class="row ">
-                <div class="col s10 " style="background-color:#d0d6ca; ">
-                    <h5> </h5>
-                </div>
-                <center><img id="logo " src="images/logo.png " alt="Retro Joystick logo " srcset="images/logo.png 1x, images/logo-2x.png 2x, images/logo-3x.png 3x " width="100 " height="115 "></center>
-                <center>
-
-                    <p style="background-color: #f4b133 ">
-                        <h4> Besides <b>Prototyping and Editing </b> I've been training in new media technology using <b> VR/AR/MR - </b> web development/app-interactive media solutions for new media platforms that respond to the users action, such as inter-connectivity
-                            systems between text,Kinesics & metacommunication artifact-video/audio.
-                            <br> </br>
-            </h5> ## Support
-            <link href="https://fonts.googleapis.com/css?family=Arial " rel="stylesheet ">
-            <a class="bmc-button " target="_blank " href="https://www.buymeacoffee.com/JzqO57X "><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg " alt="Buy me a coffee "><span style="margin-left:15px;font-size:16px !important; ">Buy me a coffee</span></a>
-            ### </h4>
-            </p>
-
-            <br></br>
-
-            </center>
-            <div class="row ">
-                <div class="column " style="background-color:#d0d6ca; ">
-                    <p>
-                        <h3>Search:</h3>
-                    </p>
-                </div>
-                <form>
-                    <input type="text " name="search " placeholder="Searching.. ">
-                </form>
-                <!-- CHIPS -->
-                <div class="chip ">
-                    <h7> Video Editor</h7>
-                </div>
-                <div class="chip ">
-                    <h7> Web development</h7>
-                </div>
-                <div class="chip ">
-                    <h7>Programming</h7>
-                </div>
-                <div class="chip ">
-                    <h7>Software</h7>
-                </div>
-                <div class="chip ">
-                    <h7>Hardware</h7>
-                </div>
-                <div class="chip ">
-                    <h7> Computer and Audiovisual Systems & components</h7>
-                </div>
-
-                <body>
-                    <h2></h2>
-                    <div class="row ">
-                        <div class="column " style="background-color:#506478; ">
-                            <h2></h2>
-                            <p>.</p>
+                    <section class="section section-follow teal darken-2 black-text center ">
+                        <div class="container ">
+                            <div class="row ">
+                                <div class="col s12 ">
+                                    <p></p>
+                                    <p></p>
+                                    <center>
+                                        <a href="https://github.com/anasancho " target="_blank " class="black-text ">
+                                            <tab>&ensp;&ensp;
+                                                <i class="fa fa-github fa-3x "></i>
+                                            </tab>
+                                        </a>
+                                        <a href="https://gitlab.com/anasancho " target="_blank " class="black-text ">
+                                            <tab>&ensp;&ensp;
+                                                <i class="fa fa-gitlab fa-3x "></i>
+                                            </tab>
+                                        </a>
+                                        <a href="https://stackshare.io/anasancho " target="_blank " class="black-text ">
+                                            <tab>&ensp;&ensp;
+                                                <i class="fa fa-share-alt fa-3x "></i>
+                                            </tab>
+                                        </a>
+                                        <a href="https://www.linkedin.com/in/ana-filipa-sancho-silva-283b6b16/ " target="_blank " class="black-text ">
+                                            <tab>&ensp;&ensp;
+                                                <i class="fa fa-linkedin-square fa-3x "></i>
+                                            </tab>
+                                        </a>
+                                        <a href="https://www.behance.net/anasancho " target="_blank " class="black-text ">
+                                            <tab>&ensp;&ensp;
+                                                <i class="fa fa-behance fa-3x "></i>
+                                            </tab>
+                                        </a>
+                                        <a href="https://anaphisanchosilva.000webhostapp.com/Todo/TodoAPP/index.html " target="_blank " class="white-text ">
+                                            <tab>&ensp;&ensp;
+                                                <i class="fa fa-book fa-3x "></i>
+                                            </tab>
+                                        </a>
+                                        </a>
+                                    </center>
+                                </div>
+                            </div>
                         </div>
-                        <div class="column " style="background-color:#116466; ">
-                            <h2></h2>
-                            <p>.</p>
+                    </section>
+                </center>
+                <br></br>
+
+                <div style="-moz-box-shadow: 1px 1px 3px 2px #647850; -webkit-box-shadow: 1px 1px 3px 2px #647850; box-shadow: 1px 1px 3px 2px #647850; ">
+                    <center>
+                        <p align="justify "><b><h4> IT'S ABOUT THE JOURNEY, NOT THE DESTINATION : </h4></b> </center>
+                </div>
+
+                <h5> I started out with the ZX Spectrum or self made/self-taught hardware solutions. I first contacted with kinect, RaspberryPi and Arduino at the University of Porto - Sound & Image - creating servers, Open Source projects network; besides
+                    artistic interactive platforms projects. So I understand well, the transition of analog to digital. Continuously developing new techniques in the computational field. Keeping up with social media and its future developments in digitization:
+                    IOT(Internet of things), artificial intelligence, and automation that supercharge performance and enabling the emergence of new business innovations.
+                    <br class="row ">
+                    <div class="col s10 " style="background-color:#d0d6ca; ">
+                        <h5> </h5>
+                    </div>
+                    <center><img id="logo " src="images/logo.png " alt="Retro Joystick logo " srcset="images/logo.png 1x, images/logo-2x.png 2x, images/logo-3x.png 3x " width="100 " height="115 "></center>
+                    <center>
+
+                        <p style="background-color: #f4b133 ">
+                            <h4> Besides <b>Prototyping and Editing </b> I've been training in new media technology using <b> VR/AR/MR - </b> web development/app-interactive media solutions for new media platforms that respond to the users action, such as
+                                inter-connectivity systems between text,Kinesics & metacommunication artifact-video/audio.
+                                <br> </br>
+                </h5> ## Support
+                <link href="https://fonts.googleapis.com/css?family=Arial " rel="stylesheet ">
+                <a class="bmc-button " target="_blank " href="https://www.buymeacoffee.com/JzqO57X "><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg " alt="Buy me a coffee "><span style="margin-left:15px;font-size:16px !important; ">Buy me a coffee</span></a>
+                ### </h4>
+                </p>
+
+                <br></br>
+
+                </center>
+                <div class="row ">
+                    <div class="column " style="background-color:#698151; ">
+                        <p>
+                            <h3>Search:</h3>
+                        </p>
+                    </div>
+                    <form>
+                        <input type="text " name="search " placeholder="Searching.. ">
+                    </form>
+                    <!-- CHIPS -->
+                    <div class="chip ">
+                        <h7> Video Editor</h7>
+                    </div>
+                    <div class="chip ">
+                        <h7> Web development</h7>
+                    </div>
+                    <div class="chip ">
+                        <h7>Programming</h7>
+                    </div>
+                    <div class="chip ">
+                        <h7>Software</h7>
+                    </div>
+                    <div class="chip ">
+                        <h7>Hardware</h7>
+                    </div>
+                    <div class="chip ">
+                        <h7> Computer and Audiovisual Systems & components</h7>
+                    </div>
+
+                    <body>
+                        <h2></h2>
+                        <div class="row ">
+                            <div class="column " style="background-color:#506478; ">
+                                <h2></h2>
+                                <p>.</p>
+                            </div>
+                            <div class="column " style="background-color:#116466; ">
+                                <h2></h2>
+                                <p>.</p>
+                            </div>
                         </div>
-                    </div>
-                    <div class="icon ">
-                        <i class="fa fa-windows "> @2020</i>
-                    </div>
-            </div>
-            <!-- /.container -->
-            <footer>
-                <ul>
-                    <li><a href="mailto:ana.sancho.silva@gmail.com ">email</a></li>
-                    <li><a href="https://www.linkedin.com/in/ana-filipa-sancho-silva-283b6b16/ ">linkedin</a></li>
-                    <li><a href="https://github.com/anasancho ">github.com/anasancho</a></li>
-                    <li><a href="https://hackaday.io/projects ">hackaday.io/projects</a></li>
-                </ul>
-            </footer>
-            </body>
+                        <div class="icon ">
+                            <i class="fa fa-windows "> @2020</i>
+                        </div>
+                </div>
+                <!-- /.container -->
+                <footer>
+                    <ul>
+                        <li><a href="mailto:ana.sancho.silva@gmail.com ">email</a></li>
+                        <li><a href="https://www.linkedin.com/in/ana-filipa-sancho-silva-283b6b16/ ">linkedin</a></li>
+                        <li><a href="https://github.com/anasancho ">github.com/anasancho</a></li>
+                        <li><a href="https://hackaday.io/projects ">hackaday.io/projects</a></li>
+                    </ul>
+                </footer>
+                </body>
 
 </html>
