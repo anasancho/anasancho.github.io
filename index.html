@@ -23,6 +23,7 @@
     <!--Let social buttons-->
     <link href="https://cdn.bootcss.com/font-awesome/5.11.2/css/all.css" rel="stylesheet" />
     <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="./styletype.css">
     <style>
         hr {
             border: 0;
@@ -357,55 +358,111 @@
 
                 <br></br>
 
-                <div class="row ">
-                    <div class="column " style="background-color:#698151; ">
-                        <p>
-                            <h3>Search:</h3>
-                        </p>
-                    </div>
-                    <form>
-                        <input type="text " name="search " placeholder="Searching.. ">
-                    </form>
-                    <!-- CHIPS -->
-                    <div class="chip ">
-                        <h7> Video Editor</h7>
-                    </div>
-                    <div class="chip ">
-                        <h7> Web development</h7>
-                    </div>
-                    <div class="chip ">
-                        <h7>Programming</h7>
-                    </div>
-                    <div class="chip ">
-                        <h7>Software</h7>
-                    </div>
-                    <div class="chip ">
-                        <h7>Hardware</h7>
-                    </div>
-                    <div class="chip ">
-                        <h7> Computer and Audiovisual Systems & components</h7>
-                    </div>
-
-                    <body>
-                        <h2></h2>
-                        <div class="row ">
-                            <div class="column " style="background-color:#B18904; ">
-                                <h2></h2>
-                                <p>.</p>
+                <div class="column is-flex" width="100%" height="auto">
+                    <div class="column-child terminal shadow">
+                        <div class="terminal-bar dark-mode">
+                            <div class="icon-btn close"></div>
+                            <div class="icon-btn min"></div>
+                            <div class="icon-btn max"></div>
+                            <div class="terminal-bar-text is-hidden-mobile dark-mode-text">guest@anaphisancho: ~</div>
+                        </div>
+                        <div class="terminal-window primary-bg" onclick="document.getElementById('dummyKeyboard').focus();">
+                            <div class="terminal-output" id="terminalOutput">
+                                <div class="terminal-line">
+                                    <span class="help-msg">Welcome to my portfolio — Type <span class="code">help</span> for a list of supported commands. Only works on desktop Keyboard</span>
+                                </div>
                             </div>
-                            <div class="column " style="background-color:#116466; ">
-                                <h2></h2>
-                                <p>.</p>
+                            <div class="terminal-line">
+                                <span class="success">➜</span> <span class="directory">~</span> <span class="user-input" id="userInput"></span>
+                                <input type="text" id="dummyKeyboard" class="dummy-keyboard">
                             </div>
                         </div>
-
-                </div>
-                <!-- /.container -->
-                <footer>
-                    <div class="icon ">
-                        <i class="fab fa-windows "> made by @naphisancho <i class="fab fa-creative-commons" aria-hidden="true"></i> 2020</i>
                     </div>
-                </footer>
-                </body>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </span>
+    </div>
+    </center>
+    </p>
+    </thead>
+
+    <!-- Section: Follow -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <section class="section section-follow teal darken-2 white-text center">
+        <div class="container">
+            <div class="row">
+                <div class="col s12">
+                    <div class="about-me">
+                    </div>
+                    <!--  -->
+                    <footer>
+    </section>
+    </footer>
+
+    <script src='https://use.fontawesome.com/releases/v5.3.1/js/all.js'></script>
+    <script src="./script.js"></script>
+    </section>
+
+
+
+    <div class="row ">
+        <div class="column " style="background-color:#698151; ">
+            <p>
+                <h3>Search:</h3>
+            </p>
+        </div>
+        <form>
+            <input type="text " name="search " placeholder="Searching.. ">
+        </form>
+        <!-- CHIPS -->
+        <div class="chip ">
+            <h7> Video Editor</h7>
+        </div>
+        <div class="chip ">
+            <h7> Web development</h7>
+        </div>
+        <div class="chip ">
+            <h7>Programming</h7>
+        </div>
+        <div class="chip ">
+            <h7>Software</h7>
+        </div>
+        <div class="chip ">
+            <h7>Hardware</h7>
+        </div>
+        <div class="chip ">
+            <h7> Computer and Audiovisual Systems & components</h7>
+        </div>
+        <td>
+
+            <body>
+                <h2></h2>
+                <div class="row ">
+                    <div class="column " style="background-color:#B18904; ">
+                        <h2></h2>
+                        <p>.</p>
+                    </div>
+                    <div class="column " style="background-color:#116466; ">
+                        <h2></h2>
+                        <p>.</p>
+                    </div>
+                </div>
+
+    </div>
+    <!-- /.container -->
+    <footer>
+        <div class="icon ">
+            <i class="fab fa-windows "> made by @naphisancho <i class="fab fa-creative-commons" aria-hidden="true"></i> 2020</i>
+        </div>
+    </footer>
+    </body>
 
 </html>
