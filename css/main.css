@@ -12,7 +12,6 @@ body {
 
 nav ul,
 footer ul {
-    font-family: 'FrutigerNeue', 'Helvetica';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -35,7 +34,6 @@ a:hover {
 
 h1 {
     font-size: 3em;
-    font-family: 'FrutigerNeue', 'Helvetica';
 }
 
 p {
