@@ -35,14 +35,14 @@ li a {
     position: absolute;
     display: block;
     color: white;
-    width: 46px;
-    height: 46px;
-    font-size: 19px;
+    width: 48px;
+    height: 48px;
+    font-size: 18px;
     text-align: center;
-    line-height: 46px;
+    line-height: 48px;
     border-radius: 50%;
     background: #2c3a47;
-    transition: 0.6s;
+    transition: 0.5s;
 }
 
 li a:hover {
