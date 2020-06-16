@@ -1,6 +1,7 @@
 ## https://anasancho.github.io/.   
 Programmers are wizards—  turning coffee into code.  
 The best knowledge, specific knowledge, knowledge which can’t be taught, comes from working on something of your own.
+For more on VR/AR/XR/MR hardware :
 
 <a href="mailto:anaphisancho.silva@gmail.com?subject=Project%20inquiry%20from%20Github"> 
 <img src="https://github.com/anasancho/anasancho.github.io/blob/master/contact_%40.png" width="187" height="34"></a> <br>
