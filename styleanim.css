@@ -10,7 +10,7 @@ main {
 
 h1.title,
 .footer-copyright a {
-  font-family: 'Aldrich';
+  font-family: 'Lato';
   text-transform: uppercase;
   font-weight: 900;
 }
@@ -20,7 +20,7 @@ h1.title,
 body.welcome {
   background: #282c1d;
   overflow: hidden;
-  -webkit-font-smoothing: antialiased;
+ 
 }
 
 .welcome .splash {
@@ -67,7 +67,7 @@ body.welcome {
 }
 
 body {
-  font-family: 'Aldrich', Aldrich;
+  font-family: 'Oswald', Oswald;
   color: #FF2138;
 }
 

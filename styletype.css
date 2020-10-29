@@ -51,11 +51,11 @@ p {
 
 .column-header {
     border-bottom: 2px rgb(45, 57, 82) solid;
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
 }
 
 .column-header>h1 {
-    font-family: "Lato", sans-serif;
+    font-family: "Oswald";
     font-weight: 100;
     color: white;
 }
@@ -164,7 +164,7 @@ p {
 
 .terminal-line {
     position: relative;
-    font-family: "Anonymous Pro", monospace;
+    font-family: "Oswald", monospace;
     font-size: 0.9rem;
     color: #b7c5d2;
 }
