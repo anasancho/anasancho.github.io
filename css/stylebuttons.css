@@ -46,10 +46,7 @@ h2 span{
    -o-transform:rotate(3deg);
    transform:rotate(3deg);
  }
-/* ааАаЗаОаВбаЕ ббаИаЛаИ аКаНаОаПаОаК
- * аІаВаЕбаОаВбаЕ аВаАбаИаАбаИаИ */
 
-/* баОаЗаОаВбаЙ */
 .pink:hover{
     border:0.0625em solid rgba(239,33,74,1);
 	background:rgba(239,33,74,0.75);
@@ -104,7 +101,7 @@ h2 span{
 	border:0.0625em solid rgba(112,52,84,1);
 	border:0.0625em solid rgba(112,52,84,1);
 } 
-/* аМаОббаКаАб аВаОаЛаНаА */ 
+
 .blue:hover{
     border:0.0625em solid rgba(6,129,128,1);
 	background:rgba(6,129,128,0.75);
@@ -131,7 +128,7 @@ h2 span{
 	background:rgba(6,129,128,1);
 	border:0.0625em solid rgba(6,129,128,1);
 } 
-/* аЖаЕаЛббаЙ */
+/**/
 .yelow:hover{
     border:0.0625em solid rgba(243,202,22,1);
 	background:rgba(243,202,22,0.75);
@@ -158,7 +155,7 @@ h2 span{
 	background:rgba(243,202,22,1);
 	border:0.0625em solid rgba(243,202,22,1);
 } 
-/* аЗаЕаЛбаНбаЙ */
+/* */
 .green:hover{
     border:0.0625em solid rgba(0,214,96,1);
 	background:rgba(0,214,96,0.75);
@@ -186,7 +183,7 @@ h2 span{
 	border:0.0625em solid rgba(0,214,96,1);
 } 
 
-/* аббаМаОбаГаОаЛбаНбаЕ аКаНаОаПаКаИ */
+/* */
 
 .rectangle{
 	position:relative;
@@ -233,7 +230,7 @@ h2 span{
 	border:none !important;
 }
 
-/* ааИаНаЕаЙаНбаЕ аКаНаОаПаКаИ (аЗаАаЛаИаВаКаА аПбаИ аНаАаВаЕаДаЕаНаИаИ) */
+/* */
 
 .hover{
 	position:relative;
@@ -274,7 +271,7 @@ h2 span{
 	color:#fff;
 }
 
-/* а аАаЗаДаВаИаЖаНбаЕ ббаВаОбаКаИ аПбаИ аНаАаВаЕаДаЕаНаИаИ */
+/* */
 
 .doorout{
 	position:relative;
@@ -340,7 +337,7 @@ h2 span{
 	width:50%;
 }
 
-/* ааАаКббаВаАббаИаЕбб ббаВаОбаКаИ аПбаИ аНаАаВаЕаДаЕаНаИаИ */
+/* */
 
 .doorin{
 	position:relative;
@@ -405,7 +402,7 @@ h2 span{
 	right:0%;
 }
 
-/* ааЕбаЕбаОаДббаАб баВаЕбаОаВаАб аЗаАаЛаИаВаКаА б баГаЛаОаВбаМ баКббаГаЛаЕаНаИаЕаМ */
+/* */
 
 .circle{
 	position:relative;
@@ -453,7 +450,7 @@ h2 span{
 	left:-50%;
 }
 
-/* аЁббаЕаЛаКаИ аВ аКббаГаЕ баОбаАбаИб аПбаИ аНаАаВаЕаДаЕаНаИаИ */
+/* */
 
 .arrow-circle{
 	position:relative;
@@ -516,7 +513,7 @@ h2 span{
 	border-bottom:none;
 }
 
-/* аЁбаЕаЛаКаА баПбаАаВаА бббаЕбб-бббаЕаКб аПбаИ аНаАаВаЕаДаЕаНаИаИ аИ аЗаАаЛаИаВаКаА */
+/*  */
 
 .arrow-right{
 	position:relative;
@@ -563,7 +560,7 @@ h2 span{
 	animation: arrow 1s ease infinite;
 }
 
-/* аЁббаЕаЛаКаА баПбаАаВаА баАаЗаДаВаИаГаАб аПаОаЛаЕ аКаНаОаПаКаИ */
+/*  */
 
 .angle-double{
 	position:relative;
@@ -612,7 +609,7 @@ h2 span{
 	animation: arrow 1s ease infinite;
 }
 
-/* аЁббаЕаЛаКаА баПбаАаВаА б баОаНаОаВаОаЙ аЗаАаЛаИаВаКаОаЙ */
+/* */
 
 .caret-right{
 	position:relative;
@@ -662,7 +659,7 @@ h2 span{
 	animation: arrow 1s ease infinite;
 }
 
-/* аЁббаЕаЛаКаА аВбаПаЛбаВаАббаАбб баЛаЕаВаА бббаЛаКаИ */
+/*  */
 
 .chevron-right{
 	position:relative;
@@ -717,7 +714,7 @@ h2 span{
 	animation: arrow 1s ease infinite;
 }
 
-/* аАаНаИаМаАбаИб бббаЕаЛаОаК */
+/*  */
 
 @-webkit-keyframes arrow{
   0%, 20%, 50%, 80%, 100%	{ -webkit-transform: translateX(0em); }

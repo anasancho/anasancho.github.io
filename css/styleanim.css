@@ -10,7 +10,7 @@ main {
 
 h1.title,
 .footer-copyright a {
-  font-family: 'Lato';
+  font-family: 'Oswald';
   text-transform: uppercase;
   font-weight: 900;
 }
@@ -65,9 +65,9 @@ body.welcome {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
-
-body {
-  font-family: 'Oswald', Oswald;
+ /* ana sancho title*/
+body .title  {
+  font-family: 'Oswald','Fredericka the Great';
   color: #FF2138;
 }
 
@@ -84,6 +84,7 @@ body {
   z-index: 9999;
   overflow: hidden;
 }
+
 .wrapper .title {
   position: relative;
   margin: auto;
@@ -92,13 +93,16 @@ body {
   left: 10vw;
   bottom: 0;
   z-index: 0;
+
 }
 .wrapper .title h1 {
+  font-family: 'Oswald';
   font-size: 72px;
   font-weight: 700;
   float: left;
 }
 .wrapper .title h1 span {
+  
   display: inline-block;
   text-indent: -9999px;
 }
