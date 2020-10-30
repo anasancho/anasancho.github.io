@@ -1,6 +1,6 @@
 ## https://anasancho.github.io/.   
-Programmers are wizards—  turning coffee into code.  
-The best knowledge which can’t be taught, comes from working on something of your own.
+Programmers are wizards—  turning coffee into code.  <p></p>
+The best knowledge which can’t be taught, comes from working on something of your own. <p></p>
 For more on New Technology or VR/AR/XR/MR hardware :
 
 <a href="mailto:anaphisancho.silva@gmail.com?subject=Project%20inquiry%20from%20Github"> 
@@ -11,11 +11,11 @@ For more on New Technology or VR/AR/XR/MR hardware :
 ## 
 ## Support
 <link href="https://fonts.googleapis.com/css?family=Arial" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JzqO57X"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:15px;font-size:16px !important;">Buy me a coffee</span></a>
-### ´
-
-<link href="https://fonts.googleapis.com/css?family=Arial" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://x-team.com/blog/become-a-github-master-with-these-features-and-extensions/?utm_source=facebook&utm_medium=social&utm_campaign=social-post&fbclid=IwAR0BIscSMEYSdEEhF1yzF1xUE5L1Kmkiv-F940PA6iGV6o3014YRFoSv308"><img src="" alt="Searching in GitHub"><span style="margin-left:15px;font-size:16px !important;">#### Searching in GitHub ###</span></a>
 ### 
 
-####     Searching in GitHub ###
+
+<link href="https://fonts.googleapis.com/css?family=Arial" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://x-team.com/blog/become-a-github-master-with-these-features-and-extensions/?utm_source=facebook&utm_medium=social&utm_campaign=social-post&fbclid=IwAR0BIscSMEYSdEEhF1yzF1xUE5L1Kmkiv-F940PA6iGV6o3014YRFoSv308"><img src="" alt=""><span style="margin-left:15px;font-size:16px !important;">#### Searching in GitHub ###</span></a>
+### 
+
 
 
