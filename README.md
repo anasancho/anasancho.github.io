@@ -1,7 +1,7 @@
 ## https://anasancho.github.io/.   
 <b> Programmers are wizards—  turning coffee into code. </b> <p></p>
 <i> The best knowledge which can’t be taught, comes from working on something of your own. </i>
-For more on <b> New Technology or VR/AR/XR/MR hardware : </b>
+For more on <b> New Technology or VR/AR/XR/MR - IMMERSIVE NARRATIVES hardware : </b>
 
 <a href="mailto:anaphisancho.silva@gmail.com?subject=Project%20inquiry%20from%20Github"> 
 <img src="https://github.com/anasancho/anasancho.github.io/blob/master/contact_%40.png" width="187" height="34"></a> <br>
