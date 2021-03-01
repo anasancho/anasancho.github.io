@@ -1,12 +1,12 @@
 const BLACKLISTED_KEY_CODES = [38];
 const COMMANDS = {
-    help: 'Supported commands: <span class="code">about</span>, <span class="code">experience</span>, <span class="code">education</span>, <span class="code">skills</span>, <span class="code">contact</span>',
-    about: "Hello 👋<br>I'm Ana Phi Sancho. I’m a developer and audiovisual technician with knowledge in a wide diversity of interactive media technologies or environments. Go to <br><a href='https://anaphisanchosilva.000webhostapp.com/Portfolio/projects.html' class='success link'>Projects</a></br>",
+    help: 'TYPE Supported commands: <span class="code">about</span>, <span class="code">experience</span>, <span class="code">education</span>, <span class="code">skills</span>, <span class="code">contact</span>',
+    about: "Hello 👋<br>I'm Ana Phi Sancho. I’m a developer and audiovisual technician with knowledge in a wide diversity of interactive media technologies or environments. For more information  Go to <br><a href='https://anaphisanchosilva.000webhostapp.com/Portfolio/projects.html' class='success link'>Projects</a></br>",
     skills: '<span class="code">Languages:</span> Python, HTML, CSS, JavaScript<br><span class="code">Technologies:</span> Git, SQL<br><span class="code">Frameworks:</span> Adobe Editing Programs, React.js, Vue.js, Django,',
     education: '<br> — Som e Imagem - Academia de Artes da Universidade Católica, Porto ; Etic, Lisboa <br> — Técnica Audiovisual & Computer Science; ',
 
-    experience: " I participated in some hardware/Software projects; experienced working at a TV production company and personal projects.Go to <br><a href='https://anaphisanchosilva.000webhostapp.com/Portfolio/projects.html' class='success link'>Projects</a></br> ",
-    contact: "You can contact me on any of following links:<br><a href='https://behance.net/anaphisancho/' class='success link'>Behance</a> ,<a href='https://www.linkedin.com/in/ana-filipa-sancho-silva-283b6b16' class='success link'> linkedin </a>, <a href='https://github.com/anasancho' class='success link'>Github</a>",
+    experience: " I participated in some hardware/Software projects; experienced working at a TV production company and personal projects. For more information Go to <br><a href='https://anaphisancho.eu5.org/projects.html' class='success link'>Projects</a></br> ",
+    contact: "You can contact me -> click on any of following links for more information :<br><a href='https://behance.net/anaphisancho/' class='success link'>Behance</a> ,<a href='https://www.linkedin.com/in/ana-filipa-sancho-silva-283b6b16' class='success link'> linkedin </a>, <a href='https://github.com/anasancho' class='success link'>Github</a>, <a href='https://anaphisancho.eu5.org/index.html' class='success link'> HomePAGE</a>",
 };
 let userInput, terminalOutput;
 
@@ -25,7 +25,7 @@ const execute = function executeCommand(input) {
     }
     output = `<div class="terminal-line"><span class="success">➜</span> <span class="directory">~</span> ${input}</div>`;
     if (!COMMANDS.hasOwnProperty(input)) {
-        output += `<div class="terminal-line">no such command: ${input}</div>`;
+        output += `<div class="terminal-line"><font color="orangered">no such command: </font> ${input} ----- > Type <font color="orangered"> HELP </font>to Run command Or Click On Icon Site__  <font color="orangered"> <a href="http://anaphisancho.eu5.org/index.html"><i class="fa fa-user-circle" > </font></i> </a>&ensp;`;
         console.log('Error! no such command');
     } else {
         output += COMMANDS[input];
