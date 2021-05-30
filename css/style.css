@@ -1,5 +1,45 @@
-* {
+    * {
     box-sizing: border-box;
+}
+
+body {
+    font-family: 'Oswald';
+    background-color: #0a3a5a;
+    color: rgb(228, 218, 187);
+    line-height: 1.4;
+}
+
+.div1 a.current {
+    color: #ccc;
+}
+
+.div1 a,
+.div2 a {
+    color: #34739c;
+}
+
+.div2 p {
+    padding: 20px 0;
+}
+
+.button {
+    color: #e55643;
+    cursor: pointer;
+}
+
+.button span {
+    display: block;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.07);
+    margin: 12px
+}
+
+ol img,
+ul img {
+    margin: 0.4em 0 0.8em 0
 }
 
 ul,
@@ -71,20 +111,133 @@ li a:hover::before {
 
 /* bilibili */
 
-.svg-icon {
-    transition: 0.6s;
-    filter: invert(1);
+@-webkit-keyframes ani-mouse {
+    0% {
+        opacity: 1;
+        top: 29%;
+    }
+    15% {
+        opacity: 1;
+        top: 50%;
+    }
+    50% {
+        opacity: 0;
+        top: 50%;
+    }
+    100% {
+        opacity: 0;
+        top: 29%;
+    }
 }
 
-li a:hover .svg-icon {
-    filter: invert(1) drop-shadow(0 0 3px rgb(37, 204, 247));
+@-moz-keyframes ani-mouse {
+    0% {
+        opacity: 1;
+        top: 29%;
+    }
+    15% {
+        opacity: 1;
+        top: 50%;
+    }
+    50% {
+        opacity: 0;
+        top: 50%;
+    }
+    100% {
+        opacity: 0;
+        top: 29%;
+    }
 }
 
-@media screen and (max-width: 512px) {
-    ul {
-        flex-direction: column;
+@keyframes ani-mouse {
+    0% {
+        opacity: 1;
+        top: 29%;
     }
-    ul li {
-        margin: 18px 0;
+    15% {
+        opacity: 1;
+        top: 50%;
+    }
+    50% {
+        opacity: 0;
+        top: 50%;
+    }
+    100% {
+        opacity: 0;
+        top: 29%;
     }
 }
+
+.scroll-btn {
+    display: block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+
+.scroll-btn>* {
+    display: inline-block;
+    line-height: 14px;
+    font-size: 10px;
+    font-weight: normal;
+    color: #7f8c8d;
+    color: #0e0e0e;
+    letter-spacing: 2px;
+}
+
+.scroll-btn>*:hover,
+.scroll-btn>*:focus,
+.scroll-btn>*.active {
+    color: #0e0e0e;
+}
+
+.scroll-btn>*:hover,
+.scroll-btn>*:focus,
+.scroll-btn>*:active,
+.scroll-btn>*.active {
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+}
+
+.scroll-btn .mouse {
+    position: relative;
+    display: block;
+    width: 25px;
+    height: 45px;
+    margin: 0 auto 20px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 3px solid rgb(32, 3, 59);
+    border-radius: 23px;
+}
+
+.scroll-btn .mouse>* {
+    position: absolute;
+    display: block;
+    top: 29%;
+    left: 50%;
+    width: 8px;
+    height: 8px;
+    margin: -4px 0 0 -4px;
+    background: rgb(7, 77, 56);
+    border-radius: 50%;
+    -webkit-animation: ani-mouse 2.5s linear infinite;
+    -moz-animation: ani-mouse 2.5s linear infinite;
+    animation: ani-mouse 2.5s linear infinite;
+    .svg-icon {
+        transition: 0.6s;
+        filter: invert(1);
+    }
+    li a:hover .svg-icon {
+        filter: invert(1) drop-shadow(0 0 3px rgb(37, 204, 247));
+    }
+    @media screen and (max-width: 512px) {
+        ul {
+            flex-direction: column;
+        }
+        ul li {
+            margin: 18px 0;
+        }
+    }
