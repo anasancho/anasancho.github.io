@@ -6,7 +6,7 @@ body {
     font-family: 'Oswald';
     background-color: #0a3a5a;
     color: rgb(228, 218, 187);
-    line-height: 1.4;
+    line-height: 1.5;
 }
 
 .div1 a.current {
@@ -33,7 +33,7 @@ body {
 
 hr {
     border: 0;
-    border-top: 1px solid rgba(0, 0, 0, 0.07);
+    border-top: 5px solid rgba(0, 0, 0, 0.07);
     margin: 12px
 }
 
@@ -109,7 +109,7 @@ li a:hover::before {
 }
 
 
-/* bilibili */
+/* ajust size */
 
 @-webkit-keyframes ani-mouse {
     0% {
