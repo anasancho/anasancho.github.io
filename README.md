@@ -1,6 +1,9 @@
 ## https://anasancho.github.io/.   
 <b> Programmers are wizards—  turning coffee into code. </b> <p></p>
 <i> The best knowledge which can’t be taught, comes from working on something of your own. </i>
+Programming is not just for engineers /Sketching materials and tools is necessary for the development of ideas : It is possible to create different kinds of programming languages and 
+environments that engage people with visual and spatial minds beyond  math or the technical approach. 
+
 Programming depends on our capacity to question rather than assume something is just because :  "Common sense isn't always common practice"
 For more on <b> New Technology or VR/AR/XR/MR - IMMERSIVE NARRATIVES hardware : </b>
 
