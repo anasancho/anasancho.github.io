@@ -12,7 +12,7 @@ For more on <b> New Technology or VR/AR/XR/MR - IMMERSIVE NARRATIVES hardware : 
 <img src="https://github.com/anasancho/anasancho.github.io/blob/master/contact_%40.png" width="187" height="34"></a> <br>
 
 <img src="http://66.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" height="200" width="200">
-<img src=""https://github.com/anasancho/anasancho.github.io/blob/master/qrcode_github.png" class="img-responsive" alt="">
+<img src="https://github.com/anasancho/anasancho.github.io/blob/master/qrcode_github.png">
 ## 
 ## Support
 <link href="https://fonts.googleapis.com/css?family=Arial" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JzqO57X"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:15px;font-size:16px !important;">Buy me a coffee</span></a>
