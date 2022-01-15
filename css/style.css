@@ -226,6 +226,7 @@ li a:hover::before {
     -webkit-animation: ani-mouse 2.5s linear infinite;
     -moz-animation: ani-mouse 2.5s linear infinite;
     animation: ani-mouse 2.5s linear infinite;
+}
     .svg-icon {
         transition: 0.6s;
         filter: invert(1);
