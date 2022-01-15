@@ -108,11 +108,11 @@ body .title  {
 }
 .wrapper .title__ticker {
   float: left;
-  font-size: 72px;
+  font-size: 62px;
   height: 82px;
   font-weight: 700;
   position: relative;
-  width: 50%;
+  width: 60%;
   overflow: hidden;
 }
 .wrapper .title__ticker ul {
