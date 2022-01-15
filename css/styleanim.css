@@ -104,7 +104,7 @@ body .title  {
 .wrapper .title h1 span {
   
   display: inline-block;
-  text-indent: -9999px;
+  text-indent: -9399px;
 }
 .wrapper .title__ticker {
   float: left;
@@ -112,7 +112,7 @@ body .title  {
   height: 82px;
   font-weight: 700;
   position: relative;
-  width: 60%;
+  width: 63%;
   overflow: hidden;
 }
 .wrapper .title__ticker ul {
@@ -120,7 +120,7 @@ body .title  {
   overflow: hidden;
 }
 .wrapper .title__ticker ul li {
-  margin-bottom: 20px;
+  margin-bottom: 17px;
   height: 82px;
   top: -82px;
   position: absolute;
@@ -131,34 +131,34 @@ body .title  {
   animation-play-state: paused;
 }
 .wrapper .title__ticker ul li:nth-child(1) {
-  -webkit-animation: cycle1 15s cubic-bezier(0, 0, 0.2, 1) infinite;
-  -moz-animation: cycle1 15s cubic-bezier(0, 0, 0.2, 1) infinite;
-  -o-animation: cycle1 15s cubic-bezier(0, 0, 0.2, 1) infinite;
-  animation: cycle1 15s cubic-bezier(0, 0, 0.2, 1) infinite;
+  -webkit-animation: cycle1 15s cubic-bezier(0, 0, 0.3, 1) infinite;
+  -moz-animation: cycle1 15s cubic-bezier(0, 0, 0.3, 1) infinite;
+  -o-animation: cycle1 15s cubic-bezier(0, 0, 0.3, 1) infinite;
+  animation: cycle1 15s cubic-bezier(0, 0, 0.3, 1) infinite;
 }
 .wrapper .title__ticker ul li:nth-child(2) {
-  -webkit-animation: cycle2 15s cubic-bezier(0, 0, 0.2, 1) infinite;
-  -moz-animation: cycle2 15s cubic-bezier(0, 0, 0.2, 1) infinite;
-  -o-animation: cycle2 15s cubic-bezier(0, 0, 0.2, 1) infinite;
-  animation: cycle2 15s cubic-bezier(0, 0, 0.2, 1) infinite;
+  -webkit-animation: cycle2 15s cubic-bezier(0, 0, 0.3, 1) infinite;
+  -moz-animation: cycle2 15s cubic-bezier(0, 0, 0.3, 1) infinite;
+  -o-animation: cycle2 15s cubic-bezier(0, 0, 0.3, 1) infinite;
+  animation: cycle2 15s cubic-bezier(0, 0, 0.3, 1) infinite;
 }
 .wrapper .title__ticker ul li:nth-child(3) {
-  -webkit-animation: cycle3 15s cubic-bezier(0, 0, 0.2, 1) infinite;
-  -moz-animation: cycle3 15s cubic-bezier(0, 0, 0.2, 1) infinite;
-  -o-animation: cycle3 15s cubic-bezier(0, 0, 0.2, 1) infinite;
-  animation: cycle3 15s cubic-bezier(0, 0, 0.2, 1) infinite;
+  -webkit-animation: cycle3 15s cubic-bezier(0, 0, 0.3, 1) infinite;
+  -moz-animation: cycle3 15s cubic-bezier(0, 0, 0.3, 1) infinite;
+  -o-animation: cycle3 15s cubic-bezier(0, 0, 0.3, 1) infinite;
+  animation: cycle3 15s cubic-bezier(0, 0, 0.3, 1) infinite;
 }
 .wrapper .title__ticker ul li:nth-child(4) {
-  -webkit-animation: cycle4 15s cubic-bezier(0, 0, 0.2, 1) infinite;
-  -moz-animation: cycle4 15s cubic-bezier(0, 0, 0.2, 1) infinite;
-  -o-animation: cycle4 15s cubic-bezier(0, 0, 0.2, 1) infinite;
-  animation: cycle4 15s cubic-bezier(0, 0, 0.2, 1) infinite;
+  -webkit-animation: cycle4 15s cubic-bezier(0, 0, 0.3, 1) infinite;
+  -moz-animation: cycle4 15s cubic-bezier(0, 0, 0.3, 1) infinite;
+  -o-animation: cycle4 15s cubic-bezier(0, 0, 0.3, 1) infinite;
+  animation: cycle4 15s cubic-bezier(0, 0, 0.3, 1) infinite;
 }
 .wrapper .title__ticker ul li:nth-child(5) {
-  -webkit-animation: cycle5 15s cubic-bezier(0, 0, 0.2, 1) infinite;
-  -moz-animation: cycle5 15s cubic-bezier(0, 0, 0.2, 1) infinite;
-  -o-animation: cycle5 15s cubic-bezier(0, 0, 0.2, 1) infinite;
-  animation: cycle5 15s cubic-bezier(0, 0, 0.2, 1) infinite;
+  -webkit-animation: cycle5 15s cubic-bezier(0, 0, 0.3, 1) infinite;
+  -moz-animation: cycle5 15s cubic-bezier(0, 0, 0.3, 1) infinite;
+  -o-animation: cycle5 15s cubic-bezier(0, 0, 0.3, 1) infinite;
+  animation: cycle5 15s cubic-bezier(0, 0, 0.3, 1) infinite;
 }
 
 @-webkit-keyframes cycle1 {
