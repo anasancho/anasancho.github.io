@@ -1,5 +1,5 @@
 ## https://anasancho.github.io/.   
- <b> <h3> Programmers are wizards—  turning coffee into code = Co.Phi  <h3> </b> <p></p>
+ <b> <h3> Programmers are wizards—  turning coffee into code = Co.Phi  </h3> </b> <p></p>
 <i> The core knowledge which can’t be taught, comes from working on something of your own - sketching materials and tools . </i>
 Advantageous  within the visual arts learn how to build their own tools—to become software literate. It is possible to create different kinds of programming languages and environments that engage people with visual and spatial minds beyond math or the technical approach. 
 <img src="https://github.com/anasancho/anasancho.github.io/blob/master/qrcode_github.png" height="200" width="200" >
