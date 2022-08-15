@@ -1,6 +1,6 @@
 ## https://anasancho.github.io/.   
  <b> <h3> Programmers are wizards—  turning coffee into code = Co.Phi  </h3> </b> <p></p>
-<i> The core knowledge which can’t be taught, comes from working on something of your own - sketching materials and tools . </i>
+<i> The core knowledge which can’t be taught, comes from working on something of your own - sketching materials and tools / considering social sustainable-responsible strategies. </i>
 Advantageous  within the visual arts learn how to build their own tools—to become software literate. It is possible to create different kinds of programming languages and environments that engage people with visual and spatial minds beyond math or the technical approach. 
 <img src="https://github.com/anasancho/anasancho.github.io/blob/master/qrcode_github.png" height="200" width="200" >
 Coding depends on our capacity to question rather than assume something is just because. As an Audiovisual Technician I work with image capture (studio and outdoors), video content editor and technical knowledge in sound, computer science, photography and lighting. For more on <b> New Technology or VR/AR/XR/MR - IMMERSIVE NARRATIVES hardware : </b>
