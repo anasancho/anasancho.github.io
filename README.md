@@ -1,4 +1,7 @@
-## https://anasancho.github.io/.   
+## https://anasancho.github.io/.  
+<p></p>
+ <a target="_blank" href="https://www.linkedin.com/in/ana-filipa-sancho-silva-283b6b16/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <b> <h3> Programmers are wizards—  turning coffee into code = Co.Phi  </h3> </b> <p></p>
 <i> The core knowledge which can’t be taught, comes from working on something of your own - sketching materials and tools / considering social sustainable-responsible strategies. </i>
 Advantageous  within the visual arts learn how to build their own tools—to become software literate. It is possible to create different kinds of programming languages and environments that engage people with visual and spatial minds beyond math or the technical approach. 
