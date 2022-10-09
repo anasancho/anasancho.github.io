@@ -1,6 +1,6 @@
-## https://anasancho.github.io/. <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasancho&layout=compact" />
+## https://anasancho.github.io/.
 <p></p>
- <a target="_blank" href="https://www.linkedin.com/in/ana-filipa-sancho-silva-283b6b16/" alt="Linkedin">
+ <a target="_blank" href="https://www.linkedin.com/in/ana-filipa-sancho-silva-283b6b16/" alt="Linkedin"> <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasancho&layout=compact" />
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <b> <h3> Programmers are wizards—  turning coffee into code = Co.Phi  </h3> </b> <p></p>
 <i> The core knowledge which can’t be taught, comes from working on something of your own - sketching materials and tools / considering social sustainable-responsible strategies. </i>
