@@ -13,6 +13,7 @@ Coding depends on our capacity to question rather than assume something is just 
 
 <img src="http://66.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" height="200" width="200">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anasancho&theme=github_dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasancho&layout=compact" />
 <p></p>
 ## 
 ## Support
