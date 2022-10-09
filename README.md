@@ -12,7 +12,7 @@ Coding depends on our capacity to question rather than assume something is just 
 <a href="mailto:anaphisancho.silva@gmail.com?subject=Project%20inquiry%20from%20Github"> 
 <img src="https://github.com/anasancho/anasancho.github.io/blob/master/contact_%40.png" width="187" height="34"></a> <br>
 <img src="http://66.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" height="200" width="200">
-<p></p>
+
 ## 
 ## Support
 <link href="https://fonts.googleapis.com/css?family=Arial" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JzqO57X"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:15px;font-size:16px !important;">Buy me a coffee</span></a>
