@@ -12,7 +12,7 @@ Coding depends on our capacity to question rather than assume something is just 
 <img src="https://github.com/anasancho/anasancho.github.io/blob/master/contact_%40.png" width="187" height="34"></a> <br>
 
 <img src="http://66.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" height="200" width="200">
-![ana phi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasancho&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasancho&layout=compact)](https://github.com/anasancho/github-readme-stats)
 <p></p>
 ## 
 ## Support
