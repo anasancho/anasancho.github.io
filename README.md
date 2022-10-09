@@ -13,12 +13,12 @@ Coding depends on our capacity to question rather than assume something is just 
 
 <img src="http://66.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" height="200" width="200">
 ![ana phi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasancho&theme=github_dark)
+<p></p>
 ## 
 ## Support
 <link href="https://fonts.googleapis.com/css?family=Arial" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JzqO57X"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:15px;font-size:16px !important;">Buy me a coffee</span></a>
 ### 
 <p></p>
-
 <link href="https://fonts.googleapis.com/css?family=Arial" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://x-team.com/blog/become-a-github-master-with-these-features-and-extensions/?utm_source=facebook&utm_medium=social&utm_campaign=social-post&fbclid=IwAR0BIscSMEYSdEEhF1yzF1xUE5L1Kmkiv-F940PA6iGV6o3014YRFoSv308"><img src="" alt=""><span style="margin-left:15px;font-size:16px !important;">#### Searching in GitHub ###</span></a>
 ### 
 
