@@ -14,7 +14,7 @@ Coding depends on our capacity to question rather than assume something is just 
 ## ⚡ Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,visualstudio,git,github"></img>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,c#,visualstudio,git,github"></img>
 </div>
 <br>
 <a href="mailto:anaphisancho.silva@gmail.com?subject=Project%20inquiry%20from%20Github"> 
