@@ -3,13 +3,15 @@
  <a target="_blank" href="https://www.linkedin.com/in/ana-filipa-sancho-silva-283b6b16/" alt="Linkedin"> 
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <b> <p>  <h3> Programmers are wizards —  turning coffee  into code = Co.Phi  </h3> </b> <p></p>
+I am passionate about technology, understanding the details, looking for how things work  to optimize results, analyzing situations that can be improved and needs that need to be met. <p></p>
 <i> The core knowledge which can’t be taught, comes from working on something of your own - sketching materials and tools / considering social sustainable-responsible strategies. </i>
 Advantageous  within the visual arts learn how to build their own tools—to become software literate. It is possible to create different kinds of programming languages and environments that engage people with visual and spatial minds beyond math or the technical approach.<p></p> 
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasancho&layout=compact"/></div>
 <p></p>
-Coding depends on our capacity to question rather than assume something is just because. As an Audiovisual Technician I work with image capture (studio and outdoors), video content editor and technical knowledge in sound, computer science, photography and lighting. For more on <b> New Technology or VR/AR/XR/MR - IMMERSIVE NARRATIVES hardware : </b>
+Coding depends on our capacity to question rather than assume something is just because.
+<p></p> As an Audiovisual Technician I work with image capture (studio and outdoors), video content editor and technical knowledge in sound, computer science, photography and lighting. For more on <b> New Technology or VR/AR/XR/MR - IMMERSIVE NARRATIVES hardware : </b>
 <br>
 ## ⚡ Technologies
 
