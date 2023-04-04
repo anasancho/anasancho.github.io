@@ -10,11 +10,10 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,postgres,visualstudio,git,github"></img>
 </div>
-Advantageous  within the visual arts learn how to build their own tools—to become software literate. It is possible to create different kinds of programming languages and environments that engage people with visual and spatial minds beyond math or the technical approach.<p></p> 
+Advantageous  within the visual arts learn how to build their own tools—to become software literate. It is possible to create different kinds of programming languages and environments that engage people with visual and spatial minds beyond math or the technical approach. Computer Systems (software / hardware) depend on our capacity to question rather than assume something is just because.  <p></p> 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasancho&layout=compact"/></div>
 <p></p>
-Computer Systems (software / hardware) depend on our capacity to question rather than assume something is just because. 
 
 <p></p> As an Audiovisual Technician I work with image capture (studio and outdoors), video content editor and technical knowledge in sound, computer science, photography and lighting. In the captivating world of computer graphics, proficiency in matrix transformations and coordinate systems is crucial for precisely transforming 3D objects into 2D images. This technique is extensively employed in various applications such as video games, virtual reality, and augmented reality to achieve realistic image rendering through the mapping of 3D points in the physical world to 2D points on an image plane.
 
