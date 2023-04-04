@@ -10,7 +10,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,postgres,visualstudio,git,github"></img>
 </div>
-Advantageous  within the visual arts learn how to build their own tools—to become software literate. It is possible to create different kinds of programming languages and environments that engage people with visual and spatial minds beyond math or the technical approach. Computer Systems (software / hardware) depend on our capacity to question rather than assume something is just because.  <p></p> 
+Advantageous  within the visual arts learn how to build their own tools—to become software literate. It is possible to create different kinds of programming languages and environments that engage people with visual and spatial minds beyond math or the technical approach.<b> Computer Systems (software / hardware) </b> depend on our capacity to question rather than assume something is just because.  <p></p> 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasancho&layout=compact"/></div>
 <p></p>
