@@ -16,7 +16,7 @@ Advantageous  within the visual arts learn how to build their own tools—to bec
 <p></p>
 
 <p></p> As an Audiovisual Technician I work with image capture (studio and outdoors), video content editor and technical knowledge in sound, computer science, photography and lighting. In the captivating world of computer graphics, proficiency in matrix transformations and coordinate systems is crucial for precisely transforming 3D objects into 2D images. This technique is extensively employed in various applications such as video games, virtual reality, and augmented reality to achieve realistic image rendering through the mapping of 3D points in the physical world to 2D points on an image plane.
-
+<p></p>
 For more on <b> New Technology or VR/AR/XR/MR - IMMERSIVE NARRATIVES hardware [+] 𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐯𝐞 𝐭𝐡𝐢𝐧𝐤𝐢𝐧𝐠 : </b>
 
 <br>
