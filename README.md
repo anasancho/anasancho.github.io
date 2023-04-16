@@ -29,6 +29,5 @@ For more on <b> New Technology or VR/AR/XR/MR - IMMERSIVE NARRATIVES hardware [+
 <link href="https://fonts.googleapis.com/css?family=Arial" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JzqO57X"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:15px;font-size:16px !important;">Buy me a coffee</span></a>
 ### 
 <p></p>
-<link href="https://fonts.googleapis.com/css?family=Arial" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://x-team.com/blog/become-a-github-master-with-these-features-and-extensions/?utm_source=facebook&utm_medium=social&utm_campaign=social-post&fbclid=IwAR0BIscSMEYSdEEhF1yzF1xUE5L1Kmkiv-F940PA6iGV6o3014YRFoSv308"><img src="" alt=""><span style="margin-left:15px;font-size:16px !important;">#### Searching in GitHub ###</span></a>
-####
+
 <img src="https://github.com/anasancho/anasancho.github.io/blob/master/qrcode_github.png" height="150" width="150">
