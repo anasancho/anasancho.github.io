@@ -3,7 +3,7 @@
  <a target="_blank" href="https://www.linkedin.com/in/ana-filipa-sancho-silva-283b6b16/" alt="Linkedin"> 
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <b> <p>  <h3> Computer Scientists are wizards —  turning coffee  into code = Co.Phi  </h3> </b> <p></p>
-<p> All organizations depend on people, processes and technology so I try to stay up to date. I am passionate about technology and people, understanding the details, looking for how things work to optimize results, analyzing situations that can be improved and needs that ought to be met. <b> Open minded with profound need of knowledge on how systems work </b> <p></p>
+<p> All organizations depend on people, processes and technology, so I try to stay up to date. I am passionate about technology and people, understanding the details, looking for how things work to optimize results, analyzing situations that can be improved and needs that ought to be met. <b> Open minded with profound need of knowledge on how systems work </b> <p></p>
 <i> The core knowledge which can’t be taught, comes from working on something of your own - sketching materials and tools / considering social sustainable-responsible strategies. </i> <p></p><br>
 ## ⚡ Technologies
 
