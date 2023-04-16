@@ -5,7 +5,7 @@
  <b> <p>  <h3> Computer Scientists are wizards —  turning coffee  into code = Co.Phi  </h3> </b> <p></p>
 <p> All organizations depend on people, processes and technology, so I try to stay up to date. I am passionate about technology and people, understanding the details, looking for how things work to optimize results, analyzing situations that can be improved, and identifying needs that should be met. <b> I am open-minded and have a profound thirst for knowledge about how systems work. </b> <p></p>
 <i> The core knowledge which can’t be taught, comes from working on something of your own - sketching materials and tools / considering social sustainable-responsible strategies. </i> <p></p><br>
-## ⚡ Technologies
+<b> ## ⚡ Technologies </b>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,postgres,visualstudio,git,github"></img>
