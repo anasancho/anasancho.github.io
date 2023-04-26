@@ -10,6 +10,8 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,postgres,visualstudio,git,github"></img>
 </div>
+
+<p></p> I'm Hard-working technical-minded individual, with exceptional customer service, besides communication skills, I possess strong ability to multitask and resolve issues quickly. 
 Advantageous  within the visual arts learn how to build their own tools—to become software literate. It is possible to create different kinds of programming languages and environments that engage people with visual and spatial minds beyond math or the technical approach.<b> Computer Systems (software / hardware) </b> depend on our capacity to question rather than assume something is just because.  <p></p> 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasancho&layout=compact"/></div>
