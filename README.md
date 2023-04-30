@@ -5,7 +5,16 @@
  <b> <p>  <h3> Computer Scientists are wizards —  turning coffee  into code = Co.Phi  </h3> </b> <p></p>
 I am a { critical thinker and a problem-solver } -- passionate about technology and people, understanding the details, looking for how things work to optimize results, analyzing situations that can be improved, and identifying needs that should be met. 
 <p> </p><b> Open-minded, and a profound thirst for knowledge about how systems interconnect. </b> 
-<i> Soon, I realized that the core knowledge which can’t be taught, comes from working on something of your own - sketching materials and tools / considering social sustainable-responsible strategies. </i> <p></p><br>
+<i> Soon, I realized that the core knowledge which can’t be taught, comes from working on something of your own - sketching materials and tools / considering social sustainable-responsible strategies. </i> <p></p>
+### <p> Skills : 
+🚥Good analytical skills and ability to communicate analysis to experts and non-experts alike;
+🚥Ability to work autonomously when required and also to work within a team;
+🚥Good drafting skills in English (e.g. writing working papers, briefing notes etc.);
+🚥Familiarity with online tools and with MS Word, PowerPoint, Excel etc.;
+🚥Ability to work in a multinational and multicultural environment;
+Professional conduct.<p>
+<p></p>
+<br>
 <b> ## ⚡ Technologies </b>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,postgres,visualstudio,git,github"></img>
@@ -32,13 +41,7 @@ For more on <b> New Technology or VR/AR/XR/MR - IMMERSIVE NARRATIVES hardware [+
 # 
 ## 📈 Support
 <link href="https://fonts.googleapis.com/css?family=Arial" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/JzqO57X"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:15px;font-size:16px !important;">Buy me a coffee</span></a>
-### <p> Skills : 
-🚥Good analytical skills and ability to communicate analysis to experts and non-experts alike;
-🚥Ability to work autonomously when required and also to work within a team;
-🚥Good drafting skills in English (e.g. writing working papers, briefing notes etc.);
-🚥Familiarity with online tools and with MS Word, PowerPoint, Excel etc.;
-🚥Ability to work in a multinational and multicultural environment;
-Professional conduct.<p>
+### 
 <p></p>
 
 <img src="https://github.com/anasancho/anasancho.github.io/blob/master/qrcode_github.png" height="150" width="150">
