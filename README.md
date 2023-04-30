@@ -6,8 +6,8 @@
 I am a { critical thinker and a problem-solver } -- passionate about technology and people, understanding the details, looking for how things work to optimize results, analyzing situations that can be improved, and identifying needs that should be met. 
 <p> </p><b> Open-minded, and a profound thirst for knowledge about how systems interconnect. </b> 
 <i> Soon, I realized that the core knowledge which can’t be taught, comes from working on something of your own - sketching materials and tools / considering social sustainable-responsible strategies. </i> <p></p>
-### <p> Skills : 
-🚥Good analytical skills and ability to communicate analysis to experts and non-experts alike;
+### Skills : 
+<p> 🚥Good analytical skills and ability to communicate analysis to experts and non-experts alike;
 🚥Ability to work autonomously when required and also to work within a team;
 🚥Good drafting skills in English (e.g. writing working papers, briefing notes etc.);
 🚥Familiarity with online tools and with MS Word, PowerPoint, Excel etc.;
