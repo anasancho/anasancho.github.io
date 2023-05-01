@@ -7,6 +7,7 @@
 <p></p>
  <a target="_blank" href="https://www.linkedin.com/in/ana-filipa-sancho-silva-283b6b16/" alt="Linkedin"> 
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <p>
+ <p></p>
  <b> ### ⚡ Skills : </b>
 <p> 🚥Good analytical skills and ability to communicate analysis to experts and non-experts alike;
 🚥Ability to work autonomously when required and also to work within a team;
