@@ -1,12 +1,13 @@
-## Find me on  https://anasancho.github.io/
 <p></p>
- <a target="_blank" href="https://www.linkedin.com/in/ana-filipa-sancho-silva-283b6b16/" alt="Linkedin"> 
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <b> <p>  <h3> Computer Scientists are wizards —  turning coffee  into code = Co.Phi  </h3> </b> 
  <p></p>  I am an Audiovisual Technician with a background in software development, tech support and a technology integration role (computer science) <b> -- { Critical Thinker and a Problem-Solver } -- </b> passionate about technology and people, understanding the details, looking for how things work to optimize results, analyzing situations that can be improved, and identifying needs that should be met. 
 <p> </p><b> Open-minded, and a profound thirst for knowledge about how systems interconnect. </b> 
 <i> Soon, I realized that the core knowledge which can’t be taught, comes from working on something of your own - sketching materials and tools / considering social sustainable-responsible strategies. </i> <p></p>
-### ⚡ Skills : 
+<b> ## Find me on  https://anasancho.github.io/ </b>
+<p></p>
+ <a target="_blank" href="https://www.linkedin.com/in/ana-filipa-sancho-silva-283b6b16/" alt="Linkedin"> 
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <p>
+ <b> ### ⚡ Skills : </b>
 <p> 🚥Good analytical skills and ability to communicate analysis to experts and non-experts alike;
 🚥Ability to work autonomously when required and also to work within a team;
 🚥Good drafting skills in English (e.g. writing working papers, briefing notes etc.);
