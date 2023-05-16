@@ -1,6 +1,6 @@
 <p></p>
  <b> <p>  <h3> COMPUTER SCIENTISTS ARE WIZARDS  —  Turning Coffee Into Code = Co.Phi  </h3> </b> 
- <p></p> I'm a Technician with a background in Software Development, tech and audit support for technology integration roles (computer science / audiovisual and administrative assistant) <b> -- { Critical Thinker and a Problem-Solver } -- </b> passionate about technology and people, understanding the details, looking for how things work to optimize results, analyzing situations that can be improved, and identifying needs that should be met. 
+ <p></p> I'm a technician with a background in software development and experience in providing technical and audit support for technology integration roles, such as computer science, audiovisual, and administrative assistant. <b> -- { Critical Thinker and a Problem-Solver } -- </b> passionate about technology and people, understanding the details, looking for how things work to optimize results, analyzing situations that can be improved, and identifying needs that should be met. 
 <p> </p><b> Open-minded, and a profound thirst for knowledge about how systems interconnect. </b> 
 <i> Soon, I realized that the core knowledge which can’t be taught, comes from working on something of your own - sketching materials and tools / considering social sustainable-responsible strategies. </i> <p></p>
 <b> ## Find me on  https://anasancho.github.io/ </b>
