@@ -28,7 +28,7 @@ depend on our capacity to question rather than assume something is just because.
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasancho&layout=compact"/></div>
 <p></p>
-<p></p> <b> As an Audiovisual Technician, I encourage creativity and innovation. </b>  I work with image capture (studio and outdoors), video content editor and technical knowledge in sound, computer science, photography and lighting. 
+<p></p> <b> As an Audiovisual Technician, I actively promote creativity and innovation. </b>  My expertise lies in various areas such as image capture, both in studio and outdoor environments. In fact, I am also a skilled drone pilot for aerial footage. Additionally, I excel in video content editing and possess technical knowledge in sound engineering, computer science, photography, and lighting.
 In the captivating world of computer graphics, proficiency in matrix transformations and coordinate systems is crucial for precisely transforming 3D objects into 2D images. 
 This technique is extensively employed in various applications such as video games, virtual reality, and augmented reality to achieve realistic image rendering through the mapping of 3D points in the physical world to 2D points on an image plane.
 <p></p>
