@@ -28,11 +28,11 @@ depend on our capacity to question rather than assume something is just because.
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasancho&layout=compact"/></div>
 <p></p>
-<p></p> <b> As an Audiovisual Technician </b> I work with image capture (studio and outdoors), video content editor and technical knowledge in sound, computer science, photography and lighting. 
+<p></p> <b> As an Audiovisual Technician, </b> encouraging Creativity and Innovation, I work with image capture (studio and outdoors), video content editor and technical knowledge in sound, computer science, photography and lighting. 
 In the captivating world of computer graphics, proficiency in matrix transformations and coordinate systems is crucial for precisely transforming 3D objects into 2D images. 
 This technique is extensively employed in various applications such as video games, virtual reality, and augmented reality to achieve realistic image rendering through the mapping of 3D points in the physical world to 2D points on an image plane.
 <p></p>
-For More On <b> New Technology or VR/AR/XR/MR - IMMERSIVE NARRATIVES hardware [+] 𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐯𝐞 𝐭𝐡𝐢𝐧𝐤𝐢𝐧𝐠 : </b>
+For More On <b> New Technology or VR/AR/XR/MR - IMMERSIVE NARRATIVES hardware  [+] 𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐯𝐞 𝐭𝐡𝐢𝐧𝐤𝐢𝐧𝐠 : </b>
 <br>
 <a href="mailto:anaphisancho.silva@gmail.com?subject=Project%20inquiry%20from%20Github"> 
 <img src="https://github.com/anasancho/anasancho.github.io/blob/master/contact_%40.png" width="187" height="34"></a> <br>
