@@ -1,5 +1,5 @@
 <p></p>
- <b> <p>  <h3> COMPUTER SCIENTISTS ARE WIZARDS  —  Turning Coffee Into Code = Co.Phi  </h3> </b> 
+ <b> <p>  <h3> COMPUTER SCIENTISTS ARE WIZARDS  —  Turning Coffee Into Code = Co.Phi  </h3>  💬 </b> 
  <p></p> Drawing on my background in software development and experience in providing technical audit support for technology integration roles like computer science, audiovisual, and administrative assistant, I merge my technical expertise with creative problem-solving abilities.
  <b> -------------- { Critical Thinker and a Problem-Solver } -- </b> deeply passionate about technology and people, understanding the details, looking for how things work to optimize results, analyzing situations that can be improved, identifying needs that should be met and finding effective solutions. 
 <p> </p><b> Open-minded, with a profound thirst for knowledge about how systems interconnect. </b> 
