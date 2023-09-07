@@ -2,7 +2,7 @@
  <b> <p>  <h3> COMPUTER SCIENTISTS ARE WIZARDS  —  Turning Coffee Into Code = Co.Phi  </h3>  💬 </b> 
  <p></p> Drawing on my background in software development and experience in providing technical audit support for technology integration roles like computer science, audiovisual, and administrative assistant, I merge my technical expertise with creative problem-solving abilities.
  <b> -------------- { Critical Thinker and a Problem-Solver } -- </b> deeply passionate about technology and people, understanding the details, looking for how things work to optimize results, analyzing situations that can be improved, identifying needs that should be met and finding effective solutions. 
-<p> </p><b> Open-minded, with a profound thirst for knowledge about how systems interconnect. </b> 
+<p> </p><b> In our  interconnected society, understanding the technologies we use and how they can be exploited is crucial. Open-minded, with a profound thirst for knowledge about how systems interconnect. </b> 
 <i> Soon, I realized that the core knowledge which can’t be taught, comes from working on something of your own - sketching materials and tools / considering social sustainable-responsible strategies. </i> <p></p>
 <b> ## Find me on  https://anasancho.github.io/ </b>
 <p></p>
