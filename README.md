@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <p>
  <p></p>
  <b> ### ⚡ SKILLS : </b>
-<p> 🚥 Good analytical skills and ability to communicate analysis to experts and non-experts alike;
+<p> 🚥 I have Good analytical skills and ability to communicate analysis to experts and non-experts alike;
 🚥 Ability to work autonomously when required and also to work within a team;
 🚥 Good drafting skills in English (e.g. writing working papers, briefing notes etc.);
 🚥 Familiarity with online tools and with MS Word, PowerPoint, Excel etc.;
