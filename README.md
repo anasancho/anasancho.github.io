@@ -1,7 +1,6 @@
 <p></p>
  <b> <p>  <h3> COMPUTER SCIENTISTS ARE WIZARDS  —  Turning Coffee Into Code = Co.Phi  </h3>  💬 </b> 
- <p></p> Drawing on my background in software development and my experience in providing technical audit support for technology integration roles such as computer science, audiovisual, and administrative assistant, I merge my technical expertise with creative problem-solving abilities.
- <b> -------------- { Critical Thinker and a Problem-Solver } -- </b> I am deeply passionate about technology and people, understanding the details, looking for how things work to optimize results, analyzing situations that can be improved, identifying needs that should be met and finding effective solutions. 
+
 <p> </p><b> In our  interconnected society, understanding the technologies we use and how they can be exploited is crucial. Open-minded, with a profound thirst for knowledge about how systems interconnect. </b> 
 <i> I quickly realized that the core knowledge that cannot be taught comes from working on personal projects—sketching materials and tools, and considering socially sustainable and responsible strategies. </i> <p></p>
 <b> ## Find me on  https://anasancho.github.io/ </b>
@@ -16,6 +15,8 @@
 🚥 Familiarity with online tools and with MS Word, PowerPoint, Excel etc.;
 🚥 Ability to work in a multinational and multicultural environment;
 Professional conduct.<p>
+  <p></p> Drawing on my background in software development and my experience in providing technical audit support for technology integration roles such as computer science, audiovisual, and administrative assistant, I merge my technical expertise with creative problem-solving abilities.
+ <b> -------------- { Critical Thinker and a Problem-Solver } -- </b> I am deeply passionate about technology and people, understanding the details, looking for how things work to optimize results, analyzing situations that can be improved, identifying needs that should be met and finding effective solutions. 
 <p></p>
 <br>
 <b> ## ⚡ TECHNOLOGIES </b>
