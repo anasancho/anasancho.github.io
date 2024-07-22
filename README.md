@@ -1,7 +1,7 @@
 <p></p>
  <b> <p>  <h3> COMPUTER SCIENTISTS ARE WIZARDS  —  Turning Coffee Into Code = Co.Phi  </h3>  💬 </b> 
 
-<p> </p><b> In our  interconnected society, understanding the technologies we use and how they can be exploited is important. As an open-minded individual with a profound thirst for knowledge about the interconnectedness of systems, </b> 
+<p> </p><b>  In our interconnected society, it is essential to understand the technologies we use and how they can be leveraged effectively. Embracing new methods and approaches is key to navigating this evolving landscape. As an open-minded individual with a profound thirst for knowledge about the interconnectedness of systems, </b> 
 <i> I have quickly realized that the core knowledge that cannot be taught comes from working on personal projects—sketching materials and tools, and considering socially sustainable and responsible strategies. </i> <p></p>
 <b> ## Find me on  https://anasancho.github.io/ </b>
 <p></p>
