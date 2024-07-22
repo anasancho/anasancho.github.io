@@ -31,7 +31,7 @@ depend on our capacity to question rather than assume something is just because.
 <p></p><b>As an Audiovisual Technician, I am dedicated to fostering creativity and innovation in every project I undertake. </b>  ---> My expertise encompasses various areas, including image capture in both studio and outdoor environments. I also have experience as a drone pilot, which allows me to capture aerial footage effectively.
 I focus on creating interactive, immersive, and entertaining video content, along with video editing, and I have a solid foundation in computer science. In the field of computer graphics, I understand the importance of matrix transformations and coordinate systems for accurately converting 3D objects into 2D images. This technique is widely used in applications such as video games, virtual reality, and augmented reality to achieve realistic image rendering by mapping 3D points in the physical world to 2D points on an image plane.
 <p></p>
-For More On <b> New Technology or VR/AR/XR/MR - IMMERSIVE NARRATIVES hardware  [+] 𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐯𝐞 𝐭𝐡𝐢𝐧𝐤𝐢𝐧𝐠 : </b>
+<b>For More On New Technology or VR/AR/XR/MR - IMMERSIVE NARRATIVES hardware  [+] 𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐯𝐞 𝐭𝐡𝐢𝐧𝐤𝐢𝐧𝐠 : </b>
 <br>
 <a href="mailto:anaphisancho.silva@gmail.com?subject=Project%20inquiry%20from%20Github"> 
 <img src="https://github.com/anasancho/anasancho.github.io/blob/master/contact_%40.png" width="187" height="34"></a> <br>
